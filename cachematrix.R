@@ -2,7 +2,7 @@
 ## functions do
 
 ## Write a short comment describing this function
-#This function computes the inverse of the special “matrix” returned by makeCacheMatrix above
+#This function computes the inverse of the special “matrix” returned by makeCacheMatrix.
 makeCacheMatrix <- function(x = matrix()) {
    i <- NULL
   set <- function(y) {
